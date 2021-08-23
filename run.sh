@@ -1,4 +1,6 @@
 #!/bin/bash
+#This script facilitates running the app
+
 #create a file to see the command line output
 touch output.txt
 
